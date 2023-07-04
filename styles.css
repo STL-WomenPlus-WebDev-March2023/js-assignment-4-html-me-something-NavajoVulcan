@@ -32,7 +32,7 @@ body {
     background-size: cover;
     display:block;
     margin: 8px;
-    funParagraph {
+    
     #testP {
         color: green;
         text-align: center;
@@ -40,7 +40,7 @@ body {
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-weight: bolder;
         text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-     }
+    
     }
 }
 
