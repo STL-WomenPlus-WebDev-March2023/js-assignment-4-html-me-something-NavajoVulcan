@@ -1,1 +1,57 @@
-/* Write your CSS here! */
+@import url(https://images.unsplash.com/photo-1519375949920-4abac1c29cc4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80);
+
+img {
+	max-width: 100%;
+
+}
+
+.imgCenter {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px whitesmoke;
+    border-style: solid;
+    border-radius: 50%;
+ }
+
+h1 {
+	text-align: center;
+    color: red;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-shadow:2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1519375949920-4abac1c29cc4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80);
+    background-size: cover;
+    display:block;
+    margin: 8px;
+    funParagraph {
+    #testP {
+        color: green;
+        text-align: center;
+        font-size: large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+     }
+    }
+}
+
+footer {
+    text-align: center;
+	background-color:green;
+	color: whitesmoke;
+    display: block;
+  }
+
+
+
+
+
