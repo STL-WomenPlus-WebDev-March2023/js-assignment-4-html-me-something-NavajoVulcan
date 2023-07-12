@@ -1,5 +1,6 @@
 @import url(https://images.unsplash.com/photo-1519375949920-4abac1c29cc4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80);
 
+
 img {
 	max-width: 100%;
 
@@ -13,14 +14,23 @@ img {
     border-style: solid;
     border-radius: 50%;
  }
+ 
+main {
+    margin: 8;
+}
 
-h1 {
-	text-align: center;
-    color: red;
+h1 { color: red;
+    text-align: center;
     font-size: xx-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     text-shadow:2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.header {
+	text-align: center;
+    color: red;
+    
 }
 
 .center {
@@ -44,14 +54,11 @@ body {
     }
 }
 
+
+
 footer {
     text-align: center;
 	background-color:green;
 	color: whitesmoke;
     display: block;
   }
-
-
-
-
-
